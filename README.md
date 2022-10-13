@@ -1,5 +1,6 @@
 # Traffic Signs Recognition
 This code is an image detection task and the purpose is to detect traffic signs from the pictures we have. Detecting traffic signs is a capability that can be seen in Tesla cars.<br>
+Keras, Matplotlib, Seaborn, Skimage libraries are used. <br>
 Below is the model I have performed after image normalization, converting RGB to Grayscale, and increasing the contrast of the given data.<br>
 
 <div align=center>
