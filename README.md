@@ -8,7 +8,7 @@ Below is the model I have performed after image normalization, converting RGB to
 
 <br>
 Using this model, I have reached an accuracy of 96%.<br>
-The two common image classes that were mistaken from each other are shown below. <br> <br>
+The two common image classes that were mistaken for each other are shown below. <br> <br>
 
 <div align=center>
   <img src="./assets/2.PNG" width="500"/>
